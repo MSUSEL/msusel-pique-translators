@@ -1,0 +1,3905 @@
+{
+    "type": "bundle",
+    "id": "bundle--7537fb30-86b5-4411-86e1-f45e466f43f1",
+    "objects": [
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c30e0b32-1530-4977-8008-4fde6e658ab1",
+            "created": "2021-10-22T17:31:50.435155Z",
+            "modified": "2021-10-22T17:31:50.435155Z",
+            "name": "CVE-CWE-915 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--766e58cf-c7c5-421c-9c4e-63c18c97ffa2",
+            "created": "2021-10-22T17:31:50.435155Z",
+            "modified": "2021-10-22T17:31:50.435155Z",
+            "name": "CVE-CWE-294 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3a06ff48-73ad-4bfd-ba86-328040dca831",
+            "created": "2021-10-22T17:31:50.435155Z",
+            "modified": "2021-10-22T17:31:50.435155Z",
+            "name": "CVE-CWE-224 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--232a6a18-e350-47f5-b000-435312ed3305",
+            "created": "2021-10-22T17:31:50.435155Z",
+            "modified": "2021-10-22T17:31:50.435155Z",
+            "name": "CVE-CWE-770 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--5586a7b9-4273-4a3e-a81f-fad26cea6c7c",
+            "created": "2021-10-22T17:31:50.435155Z",
+            "modified": "2021-10-22T17:31:50.435155Z",
+            "name": "Yara antidebug_antivm Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.435155Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--dc67ad47-50d1-44e2-bd60-f2276b5b6eb7",
+            "created": "2021-10-22T17:31:50.436159Z",
+            "modified": "2021-10-22T17:31:50.436159Z",
+            "name": "CVE-CWE-532 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a083fc6d-8e2d-4c7a-a905-b20cfcd2b01e",
+            "created": "2021-10-22T17:31:50.436159Z",
+            "modified": "2021-10-22T17:31:50.436159Z",
+            "name": "CVE-CWE-409 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b748198b-5b57-4254-9ca7-6e6d8bd5aeff",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-419 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d43c85b9-508d-4fed-97e4-daf5f34ec94c",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-94 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9ee0b411-4162-43e6-9c0b-22a40c5adba0",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-429 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7b2f9434-e425-41d7-a235-60d8d3e7531b",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-502 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--05fc3421-6e9c-44c0-8c68-7e86b7322482",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-1211 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8d028925-81f1-4987-93f3-4ce8fbd63bbb",
+            "created": "2021-10-22T17:31:50.437164Z",
+            "modified": "2021-10-22T17:31:50.437164Z",
+            "name": "CVE-CWE-449 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--66c55c0c-a426-4ce9-925c-4b066d7c529f",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-459 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--48332e27-7e83-4e2d-ba03-0ed9f509c353",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-1108 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cf39c184-b8ae-46e9-a11c-06225a79149f",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CWE-415 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8ad2167b-fec3-48a7-9c6a-cd2f50f662f4",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-1118 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0f3dbed7-ba3b-4b68-a8b9-88020364d3f4",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-439 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9fc40efb-d644-484a-a813-72ea1a084ac5",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-274 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--35944fbe-db54-47d4-8880-4500ec57851b",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-389 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7ebced33-cc0f-4b8e-9313-21f3e05f6cea",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-489 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--66a6a2bc-938c-43e8-94a7-334e445fddaf",
+            "created": "2021-10-22T17:31:50.438171Z",
+            "modified": "2021-10-22T17:31:50.438171Z",
+            "name": "CVE-CWE-472 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f5d25de4-6a20-4ba7-b801-de6b0314bcf3",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-469 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--49a92551-8366-48d0-967d-6700917b43b5",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-399 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4203363f-448f-40e4-8618-948565b1f83e",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-359 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fbbd4d34-487b-454a-8c06-829917522978",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-562 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d4b64409-d477-47ea-8716-754f1d4db16d",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-462 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4badc6a0-0e8e-4486-9a43-70b177d9ba19",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-452 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8fa69912-1f22-4ac4-9dd3-01ae96a91f24",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-369 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ce58514c-d0f4-4cd7-894f-fef86a44025a",
+            "created": "2021-10-22T17:31:50.439165Z",
+            "modified": "2021-10-22T17:31:50.439165Z",
+            "name": "CVE-CWE-479 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--90088d07-05f2-4459-a012-875b66560b42",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-379 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d5e25a24-991d-4077-a493-ad1ffcc0b6fe",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-204 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d95f8758-efac-4431-9704-045a35a26e12",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-214 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a68fc61a-8537-4eda-9e68-d61af686e3ba",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-304 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--42307d13-ccb1-4576-b836-f4b533ab651c",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-364 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bf7fa047-64ff-49d1-88e9-7462d43656ed",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-374 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a3662eb6-60ba-45e0-bcb2-fdfc7768ff8c",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-1083 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d515466c-e78b-4f2e-a47b-ce11d5e96c15",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-1073 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bcf31e74-52dc-4091-a22b-41dce34bb00d",
+            "created": "2021-10-22T17:31:50.440165Z",
+            "modified": "2021-10-22T17:31:50.440165Z",
+            "name": "CVE-CWE-394 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--87afc9db-a7a3-4e01-a687-60f0464e6fed",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-354 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7ba18ba2-316f-4d6f-9703-5f5fb8cbe5f2",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-184 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3a79f64e-d326-4b90-8021-53418928b910",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-587 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3ee94d83-f4d5-4e9e-ac1d-c4b905e66432",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-324 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--efb54561-c5cb-4f8b-ae53-561d4cee641e",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-334 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cae79738-a4fd-4572-80fb-7116db871699",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-134 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e97941c6-f6ff-430e-b961-7244391939c6",
+            "created": "2021-10-22T17:31:50.441163Z",
+            "modified": "2021-10-22T17:31:50.441163Z",
+            "name": "CVE-CWE-597 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6c5f577e-a1db-484a-a7b3-329927ba1c81",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-124 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c66a1c25-ec6f-4c1b-92a7-fe62d5b8ac34",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-309 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--746130ab-5d95-451b-8228-7e604f767442",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-652 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b3f1abc9-8db4-4328-bd0f-e31af0a9641b",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-612 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b38de4a7-8446-498c-bd23-c0a24228fd3c",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-432 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--033421a5-bb5a-4b54-a5d2-c7513eb9196d",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-319 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--388240da-ef65-4a6c-9d46-e1613930cc83",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-1053 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cb64ef1f-9e9c-4495-b1f6-a1dda7551ac7",
+            "created": "2021-10-22T17:31:50.442171Z",
+            "modified": "2021-10-22T17:31:50.442171Z",
+            "name": "CVE-CWE-349 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4ed77524-23ca-4e47-ad2e-66ebb43c91fa",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-1043 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b2e76ff3-ee2d-47ba-9743-c9d52f8f4e59",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-1063 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3cd5f48e-938b-475a-8a9e-7ab13d6c5411",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-412 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--962d3fc9-01d6-4566-9e98-26b59685e664",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-549 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--973e60f4-e6d8-403e-81e0-c647ba74ae7e",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-136 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--77e1db43-04cb-4981-88ce-65b358d58bc6",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-600 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2db7d84a-90cd-49e7-8701-aa091ff7b1e2",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-820 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--394206d5-a8ba-4bba-9dcd-9cd7fb53cb12",
+            "created": "2021-10-22T17:31:50.443188Z",
+            "modified": "2021-10-22T17:31:50.443188Z",
+            "name": "CVE-CWE-1091 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f4ccf75c-422b-4db1-9091-0b6a409a1d2e",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-1041 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0f2bf258-a70b-4686-aeff-305d38b25155",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-547 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e27ecd48-0e04-4c1c-9f23-0870b8490c9c",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-1241 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e1f1080c-7856-4f0d-9b3d-eb4a8e672964",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-186 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0e7e3c3d-ce6e-4045-b44d-64c9fe5d0061",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-640 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ce34db71-fb4a-456e-abbf-018719e09a82",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-567 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bf18e4de-077a-432e-bc21-a68fac0421b0",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-787 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ccdc2431-e9d5-4a2a-8f21-0f665855aab6",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-166 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e529709c-023f-4f6c-ac34-ee631ed1df2b",
+            "created": "2021-10-22T17:31:50.444184Z",
+            "modified": "2021-10-22T17:31:50.444184Z",
+            "name": "CVE-CWE-1071 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0109fbf0-7826-4d78-8a52-a49b383a44d2",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-620 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6916a362-9d7b-46e5-857c-5a73522412a6",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-1188 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--dd53ebbf-b52b-46a7-ad2e-08179d24d5a9",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-1051 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e7edc385-2919-48cd-9df9-f4d1cadd61f7",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-840 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b8a9ba3d-f46c-4a12-9b6e-4b4110cc176a",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-767 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b8c04943-42a0-42b1-84d2-d8449fe147d0",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CWE-676 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9a11f1eb-247f-44c0-b2ee-fcfffcf7a9c9",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-497 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d9cc31b3-88be-4e61-b6ac-74f4d1d38ca1",
+            "created": "2021-10-22T17:31:50.445186Z",
+            "modified": "2021-10-22T17:31:50.445186Z",
+            "name": "CVE-CWE-464 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--07b88f8d-c20b-4aff-be31-87278e7d8cfd",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-477 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--73dabf9d-e32d-422e-9839-95d14bf5c392",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-1021 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--febd7445-e6a6-4d6c-a369-b6a2f5ec1a6b",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-444 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9c27b8b2-dff2-437e-a99a-27865491eb11",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-1123 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--db15557f-e7dc-4677-8dfa-8d2b76f763cf",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-570 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--72344bf1-bb3f-4afb-8ae6-0eb399d6451f",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-89 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--962fc361-30ac-4100-a3e0-d71079615391",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-795 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5acb6189-682f-4835-a655-01dc50e9a41e",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-322 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b292a24c-b5b2-469c-bba2-92b64612ac81",
+            "created": "2021-10-22T17:31:50.44618Z",
+            "modified": "2021-10-22T17:31:50.44618Z",
+            "name": "CVE-CWE-209 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--dd8b7194-bd0c-43a2-8ec4-ef5478c231ac",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-36 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e71fec06-e4ec-4662-93ac-4d7f7bf59334",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-649 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e4e82e76-fbc2-4ada-89bc-19b06111562d",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-484 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d744f503-b57b-4a96-878b-891e8b2e51fa",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-229 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bee13e56-823a-4a3c-bfa4-2fc34679302d",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-1216 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--581de64c-d5d7-4e3f-86d9-7860580dee01",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-252 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2336d33d-47f4-4f29-b303-8468d3f9b0f8",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-179 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--65b1c573-1452-4a26-beea-30b221f67f5d",
+            "created": "2021-10-22T17:31:50.447177Z",
+            "modified": "2021-10-22T17:31:50.447177Z",
+            "name": "CVE-CWE-342 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8231f4cd-0c4a-4312-9bc5-b02a61823862",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-76 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7287699e-926e-4b3e-97aa-546e5ad3121f",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-1116 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ef6d0b77-242e-4dc3-b1f1-7a19608d0a7b",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-1236 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4360f637-eb5a-4d98-b2c2-9463f8b1e769",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-96 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2a9b987f-58e1-4fe7-b5ca-03457974faaa",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-272 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b3f94040-3f7d-4ee5-9103-cbb351864461",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-199 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--36055c79-a069-4fbd-b7e7-e76b22259029",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "Yara crypto Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.448174Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4c66e943-f68b-47c3-882a-1ac91d02ccd5",
+            "created": "2021-10-22T17:31:50.448174Z",
+            "modified": "2021-10-22T17:31:50.448174Z",
+            "name": "CVE-CWE-605 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--96abcb37-7cbb-438a-8276-ac463a1bca7a",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CWE-787 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--79ebf239-54d7-429e-9c8c-06745130fa23",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CVE-CWE-1121 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--06526d5d-84d5-45a6-bcc6-5fa2873fa562",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CVE-CWE-625 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--65091e2e-c0e3-4622-a9de-6d5e7e6ba4d6",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CVE-CWE-835 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f240b51d-6f95-4acc-b3b1-d7979f9cdc24",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CVE-CWE-1066 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5fcfee98-42d0-4ebf-953a-352e87d55c25",
+            "created": "2021-10-22T17:31:50.449171Z",
+            "modified": "2021-10-22T17:31:50.449171Z",
+            "name": "CVE-CWE-645 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--59084d63-9980-491e-b55e-87222b68802d",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CVE-CWE-1101 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--391b1c72-7e70-4cbb-b29a-56c99d33a89c",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CVE-CWE-1086 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2f80c196-a2ac-42ad-8b24-6b71f3cc9242",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CVE-CWE-1218 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--91780c02-9fe9-4e13-b88a-f8d64e8662c9",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CWE-367 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--097e227a-ed27-44b2-9208-1211d662d259",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CVE-CWE-256 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1c1fc7c5-2024-4dbc-a18e-5af0a5ebdc8c",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CWE-243 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--81f9409f-30d6-459a-99a2-dd315f59ae87",
+            "created": "2021-10-22T17:31:50.450163Z",
+            "modified": "2021-10-22T17:31:50.450163Z",
+            "name": "CVE-CWE-1068 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e0891466-7f98-4ee7-ac84-5f4182dfca31",
+            "created": "2021-10-22T17:31:50.451161Z",
+            "modified": "2021-10-22T17:31:50.451161Z",
+            "name": "CVE-CWE-1048 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--89d3acf4-f866-413a-b113-30cd57d81dcf",
+            "created": "2021-10-22T17:31:50.451161Z",
+            "modified": "2021-10-22T17:31:50.451161Z",
+            "name": "CVE-CWE-627 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b7388de3-1c82-4615-ae26-b94ce8afdda7",
+            "created": "2021-10-22T17:31:50.451161Z",
+            "modified": "2021-10-22T17:31:50.451161Z",
+            "name": "CVE-CWE-837 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c7760bff-c1e8-472b-8995-05020a542231",
+            "created": "2021-10-22T17:31:50.451161Z",
+            "modified": "2021-10-22T17:31:50.451161Z",
+            "name": "CWE-190 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c3089afd-1853-4641-a629-ab5e4e824822",
+            "created": "2021-10-22T17:31:50.451161Z",
+            "modified": "2021-10-22T17:31:50.451161Z",
+            "name": "CVE-CWE-910 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--74c7c5d5-b313-4477-a219-9d29b4d49795",
+            "created": "2021-10-22T17:31:50.451932Z",
+            "modified": "2021-10-22T17:31:50.451932Z",
+            "name": "CVE-CWE-437 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9fa182f0-7d0a-4d31-b55d-6395161eb76f",
+            "created": "2021-10-22T17:31:50.452017Z",
+            "modified": "2021-10-22T17:31:50.452017Z",
+            "name": "CVE-CWE-609 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a6bdcecf-bdd8-4be6-9d05-5d49bff3acda",
+            "created": "2021-10-22T17:31:50.452017Z",
+            "modified": "2021-10-22T17:31:50.452017Z",
+            "name": "CVE-CWE-296 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9b0ed591-5f71-4663-a6ca-b6e82673a2ea",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-417 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4f1a6a1e-561d-40a1-82de-245a01aae452",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-1103 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6a3da77c-7de0-4f31-af7b-aebc7743d30f",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-276 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6e624620-fa02-4634-b840-947e7b16609f",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-1088 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3500b762-b2ed-45e4-bf57-2184b14538bd",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-1214 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ba900a8c-7a1d-47a5-9be1-38a651298c3f",
+            "created": "2021-10-22T17:31:50.452931Z",
+            "modified": "2021-10-22T17:31:50.452931Z",
+            "name": "CVE-CWE-91 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a591b0d9-aaf7-4389-ba40-f1ae84f73056",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-257 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a3051793-1dda-4df7-a468-88c10b7d3401",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-201 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a285b6da-9565-40d2-9bd1-0a7a070d0d9b",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-281 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--109c1ff6-c025-43d3-bf3f-615eadaaea9b",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-908 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--38a1cc89-e6d7-4e4b-984c-7932fbd67b7a",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-515 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d9db3f78-a766-451f-8583-537ef14245e4",
+            "created": "2021-10-22T17:31:50.453931Z",
+            "modified": "2021-10-22T17:31:50.453931Z",
+            "name": "CVE-CWE-188 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4c3ce8cf-7ad1-47b1-8688-aebd21bc25ba",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-112 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--42773424-df58-4268-b753-277102ae032c",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-585 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e73cb329-09f7-4bee-8f35-f1b43011ba39",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-178 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--af890329-1b59-4015-b201-b932d0a26b31",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-390 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--73f72642-2def-4bec-b9f1-d95ccd0a9212",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-241 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a60c218d-9d0a-456d-9a2d-0f0c842037a3",
+            "created": "2021-10-22T17:31:50.454954Z",
+            "modified": "2021-10-22T17:31:50.454954Z",
+            "name": "CVE-CWE-192 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--504d009a-a0f1-4be4-93a0-7b7d03b61f98",
+            "created": "2021-10-22T17:31:50.455925Z",
+            "modified": "2021-10-22T17:31:50.455925Z",
+            "name": "CVE-CWE-1065 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d5d4f0b4-f7f5-4995-9f24-1037c9018937",
+            "created": "2021-10-22T17:31:50.455925Z",
+            "modified": "2021-10-22T17:31:50.455925Z",
+            "name": "CVE-CWE-1075 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--db935aa7-cc28-4d42-91fd-4839d64a6365",
+            "created": "2021-10-22T17:31:50.455925Z",
+            "modified": "2021-10-22T17:31:50.455925Z",
+            "name": "CVE-CWE-1025 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fab89637-e08b-45cc-bb39-709d127677cb",
+            "created": "2021-10-22T17:31:50.455925Z",
+            "modified": "2021-10-22T17:31:50.455925Z",
+            "name": "CVE-CWE-1125 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--881f1ddd-b073-4063-a4bc-5f5dfe129f7e",
+            "created": "2021-10-22T17:31:50.456926Z",
+            "modified": "2021-10-22T17:31:50.456926Z",
+            "name": "CVE-CWE-733 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3af199a0-2532-400e-9b56-312e91a183b4",
+            "created": "2021-10-22T17:31:50.456926Z",
+            "modified": "2021-10-22T17:31:50.456926Z",
+            "name": "CVE-CWE-843 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a90d9dcc-5bd7-4372-983b-c8c6ef766a70",
+            "created": "2021-10-22T17:31:50.456926Z",
+            "modified": "2021-10-22T17:31:50.456926Z",
+            "name": "CVE-CWE-783 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e12b0726-09c8-43a9-a624-b917e443b90d",
+            "created": "2021-10-22T17:31:50.456926Z",
+            "modified": "2021-10-22T17:31:50.456926Z",
+            "name": "CWE-416 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e7e01ac0-b6a5-4d4d-b5cc-2354e13526ad",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-624 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f45bb505-1912-4818-b2ae-6939ce78454d",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-197 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a6a0ccbb-5335-4ccd-be97-af6e3f180312",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-290 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e160944f-62fa-4868-820b-9145df023b92",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-1070 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c2694115-456c-42d0-9724-68a1a467514a",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-1080 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--dc3e6c60-71d9-4fc3-8bf4-00c75487d5a2",
+            "created": "2021-10-22T17:31:50.45793Z",
+            "modified": "2021-10-22T17:31:50.45793Z",
+            "name": "CVE-CWE-397 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--abbc5b0e-fbbf-4187-828c-5c02d97beace",
+            "created": "2021-10-22T17:31:50.458942Z",
+            "modified": "2021-10-22T17:31:50.458942Z",
+            "name": "CVE-CWE-764 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--712984a6-e93f-4fac-bcff-f400c562fb07",
+            "created": "2021-10-22T17:31:50.458942Z",
+            "modified": "2021-10-22T17:31:50.458942Z",
+            "name": "CVE-CWE-367 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e29b11ef-7627-41bb-928b-a46c2258b64b",
+            "created": "2021-10-22T17:31:50.459925Z",
+            "modified": "2021-10-22T17:31:50.459925Z",
+            "name": "CVE-CWE-450 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3d9cc654-907d-43f4-b549-37c46d00e2f4",
+            "created": "2021-10-22T17:31:50.459925Z",
+            "modified": "2021-10-22T17:31:50.459925Z",
+            "name": "CVE-CWE-222 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a79fd8fe-2f2b-4a4a-a2a1-99f098bcb400",
+            "created": "2021-10-22T17:31:50.459925Z",
+            "modified": "2021-10-22T17:31:50.459925Z",
+            "name": "CVE-CWE-460 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d2e8d0da-3e33-491f-84f8-b5ed6fff4b78",
+            "created": "2021-10-22T17:31:50.46091Z",
+            "modified": "2021-10-22T17:31:50.46091Z",
+            "name": "CVE-CWE-822 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d51b052f-c01e-49d5-8688-af3b63f72760",
+            "created": "2021-10-22T17:31:50.46091Z",
+            "modified": "2021-10-22T17:31:50.46091Z",
+            "name": "CVE-CWE-250 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--42654244-2c9a-4631-91e3-bab38b908e02",
+            "created": "2021-10-22T17:31:50.46091Z",
+            "modified": "2021-10-22T17:31:50.46091Z",
+            "name": "CVE-CWE-280 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--76140602-3672-4289-8b38-ea398e8d1ac6",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-917 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7bf9d2eb-4eba-423c-ba07-ae1fe7269b92",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-129 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bebb0820-791e-4101-9d12-41ef4bf4c0c4",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-546 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8d3ca417-1346-4c98-bb3c-3a1e0178a285",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-366 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--413d06b1-ee69-4052-936d-87807af002a4",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-385 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e56ac0e3-eb60-47fe-80a7-166c9f33698e",
+            "created": "2021-10-22T17:31:50.46154Z",
+            "modified": "2021-10-22T17:31:50.46154Z",
+            "name": "CVE-CWE-375 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6769e527-962c-4998-94ba-db551ffc2dec",
+            "created": "2021-10-22T17:31:50.462534Z",
+            "modified": "2021-10-22T17:31:50.462534Z",
+            "name": "CVE-CWE-595 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0408bd91-1bf0-4a93-a8d1-a61e02c01277",
+            "created": "2021-10-22T17:31:50.462534Z",
+            "modified": "2021-10-22T17:31:50.462534Z",
+            "name": "CVE-CWE-117 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e5c1c37b-1de7-440a-9179-36c3075b47df",
+            "created": "2021-10-22T17:31:50.462534Z",
+            "modified": "2021-10-22T17:31:50.462534Z",
+            "name": "CVE-CWE-939 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a52c03c3-5dc5-454d-8c6a-7059384bee5e",
+            "created": "2021-10-22T17:31:50.462534Z",
+            "modified": "2021-10-22T17:31:50.462534Z",
+            "name": "CVE-CWE-317 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4b8b6a1c-0a5c-41f5-9605-870475dbb928",
+            "created": "2021-10-22T17:31:50.462534Z",
+            "modified": "2021-10-22T17:31:50.462534Z",
+            "name": "CVE-CWE-357 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4cc2888c-cb39-4c37-a7d5-0a1d049ec0f2",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-1213 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b53465f1-8ff4-4ea7-b7b2-4bb3d32d3c6b",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-586 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e392c372-f080-402c-afbd-b5d1e4c0a437",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-420 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b743fbea-b4fe-4cfc-9b08-ed8ab4b7c6a6",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-410 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--56f4c95d-9bb7-4ff5-9575-84a9af76c277",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-1047 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a0ff3edd-84e1-401b-9351-5d943b72b275",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CVE-CWE-308 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--21ffecfb-6b0d-4612-9cbe-b62f49f1f816",
+            "created": "2021-10-22T17:31:50.463531Z",
+            "modified": "2021-10-22T17:31:50.463531Z",
+            "name": "CWE-476 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1d8ee0b4-44ed-4ae5-94f0-39965ad2fc2b",
+            "created": "2021-10-22T17:31:50.464528Z",
+            "modified": "2021-10-22T17:31:50.464528Z",
+            "name": "CVE-CWE-821 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--78b89a22-9c9d-4842-97cf-1969b24c638a",
+            "created": "2021-10-22T17:31:50.464528Z",
+            "modified": "2021-10-22T17:31:50.464528Z",
+            "name": "CVE-CWE-1007 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5f6e7de4-625d-4bd5-8188-2b957d93867f",
+            "created": "2021-10-22T17:31:50.464528Z",
+            "modified": "2021-10-22T17:31:50.464528Z",
+            "name": "CVE-CWE-1087 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1009c89d-9997-4359-99a7-627056529d66",
+            "created": "2021-10-22T17:31:50.464528Z",
+            "modified": "2021-10-22T17:31:50.464528Z",
+            "name": "CVE-CWE-305 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0089fdec-3495-4330-83d4-577a460539bc",
+            "created": "2021-10-22T17:31:50.464528Z",
+            "modified": "2021-10-22T17:31:50.464528Z",
+            "name": "CVE-CWE-348 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9d743541-929f-4cc6-a45c-7912b47c137f",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-454 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--14ebc9de-5491-4ed3-84ef-d7346dfbdc69",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-19 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0c0b621f-b90a-473c-9456-d4e224790852",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-619 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--917056cc-5967-46cc-9192-b8682dda3728",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-1100 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1d165689-f675-48d2-bbb1-f16adbcafb0a",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-140 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4f661752-0ad2-4ece-be95-e81ae9c7ee5a",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-606 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9cdb2150-6bd5-4214-b275-c8409bea1ee5",
+            "created": "2021-10-22T17:31:50.465525Z",
+            "modified": "2021-10-22T17:31:50.465525Z",
+            "name": "CVE-CWE-193 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7d9f7ee2-891b-48c5-8487-7744eaaf643b",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-494 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--70345e9f-d62c-4e22-8e2f-f0a9c83a863c",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-765 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5ae879fa-1348-4038-9fdb-f82b47c1afe2",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-59 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--afd6c7ad-c653-4b47-bd84-691ac1b2551e",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-279 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--89997da3-89db-433b-b3e1-8b52ae409680",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-213 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--451e961f-c614-456b-9671-e77786c4bb57",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-1235 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--10c48820-44f5-4028-bb75-559d91af3bb6",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-253 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c601961f-6b32-4e18-bdce-5c8af84c62b2",
+            "created": "2021-10-22T17:31:50.466523Z",
+            "modified": "2021-10-22T17:31:50.466523Z",
+            "name": "CVE-CWE-1074 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2e8645a4-e6af-4544-86c7-c3fe883471f8",
+            "created": "2021-10-22T17:31:50.46752Z",
+            "modified": "2021-10-22T17:31:50.46752Z",
+            "name": "CVE-CWE-1126 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7a60d4af-33af-4866-9796-f320645306a8",
+            "created": "2021-10-22T17:31:50.46752Z",
+            "modified": "2021-10-22T17:31:50.46752Z",
+            "name": "CVE-CWE-262 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4c5d1ee6-2d8b-4ac7-8642-b7765e035f27",
+            "created": "2021-10-22T17:31:50.46752Z",
+            "modified": "2021-10-22T17:31:50.46752Z",
+            "name": "CVE-CWE-524 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9c8b7510-89a2-496c-889b-0907c5f79149",
+            "created": "2021-10-22T17:31:50.46752Z",
+            "modified": "2021-10-22T17:31:50.46752Z",
+            "name": "CVE-CWE-372 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--db1d01df-190a-4379-9f16-4a5ec788340d",
+            "created": "2021-10-22T17:31:50.46752Z",
+            "modified": "2021-10-22T17:31:50.46752Z",
+            "name": "CVE-CWE-414 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2cabff19-4ef0-4892-b2f6-ef6e15b4c39b",
+            "created": "2021-10-22T17:31:50.468519Z",
+            "modified": "2021-10-22T17:31:50.468519Z",
+            "name": "CVE-CWE-628 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0228326d-9a02-4cf1-9a6c-ce2481e8481a",
+            "created": "2021-10-22T17:31:50.468519Z",
+            "modified": "2021-10-22T17:31:50.468519Z",
+            "name": "CVE-CWE-825 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1cd4eb85-fb31-4a5e-9bca-4186ad0af0ed",
+            "created": "2021-10-22T17:31:50.468519Z",
+            "modified": "2021-10-22T17:31:50.468519Z",
+            "name": "CVE-CWE-248 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--04b39fc7-096a-4930-8632-b4c2cf4dd1bd",
+            "created": "2021-10-22T17:31:50.468519Z",
+            "modified": "2021-10-22T17:31:50.468519Z",
+            "name": "CVE-CWE-1104 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--465ede60-80c2-44c5-a31e-868946b96c93",
+            "created": "2021-10-22T17:31:50.469517Z",
+            "modified": "2021-10-22T17:31:50.469517Z",
+            "name": "CVE-CWE-208 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ac6708df-49a0-4345-953d-4f984826a818",
+            "created": "2021-10-22T17:31:50.469517Z",
+            "modified": "2021-10-22T17:31:50.469517Z",
+            "name": "CVE-CWE-1056 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--383905dd-533d-42d8-816a-795e683c4046",
+            "created": "2021-10-22T17:31:50.469517Z",
+            "modified": "2021-10-22T17:31:50.469517Z",
+            "name": "CVE-CWE-288 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fb62d84a-25f4-41fd-bf5e-ca9092ce4678",
+            "created": "2021-10-22T17:31:50.469517Z",
+            "modified": "2021-10-22T17:31:50.469517Z",
+            "name": "CVE-CWE-551 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fd8e8816-7f48-4efe-971a-f0614679847c",
+            "created": "2021-10-22T17:31:50.470513Z",
+            "modified": "2021-10-22T17:31:50.470513Z",
+            "name": "CVE-CWE-131 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cb31c76c-c9ca-4428-b9f4-e0e65a1987da",
+            "created": "2021-10-22T17:31:50.470513Z",
+            "modified": "2021-10-22T17:31:50.470513Z",
+            "name": "CVE-CWE-341 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--80d6b97c-c2a9-4c13-9f1e-ea14407ee99f",
+            "created": "2021-10-22T17:31:50.470513Z",
+            "modified": "2021-10-22T17:31:50.470513Z",
+            "name": "CVE-CWE-695 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9883c323-62ae-4007-98e0-dcefe793dfa1",
+            "created": "2021-10-22T17:31:50.470513Z",
+            "modified": "2021-10-22T17:31:50.470513Z",
+            "name": "CVE-CWE-226 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--00265a07-1528-4c93-b75c-c6057d5fc0a7",
+            "created": "2021-10-22T17:31:50.471164Z",
+            "modified": "2021-10-22T17:31:50.471164Z",
+            "name": "CVE-CWE-275 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3015f8cf-ea2a-4111-8453-944a9150c1c2",
+            "created": "2021-10-22T17:31:50.471164Z",
+            "modified": "2021-10-22T17:31:50.471164Z",
+            "name": "CWE-78 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9f4e07d6-a3bf-4572-868d-39adec72a89a",
+            "created": "2021-10-22T17:31:50.471164Z",
+            "modified": "2021-10-22T17:31:50.471164Z",
+            "name": "CVE-CWE-829 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ab7759c2-5f9d-46dc-bb99-aa07248af44b",
+            "created": "2021-10-22T17:31:50.471164Z",
+            "modified": "2021-10-22T17:31:50.471164Z",
+            "name": "CVE-CWE-1113 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d09bff96-0cbd-4878-821a-483c4772c407",
+            "created": "2021-10-22T17:31:50.471164Z",
+            "modified": "2021-10-22T17:31:50.471164Z",
+            "name": "CVE-CWE-15 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f2039cc1-ea55-49da-8706-92ca0f2004f2",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-1069 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--99da2f60-f9fe-4257-a1e5-9cea3cb1a0f3",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-467 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e7a536bd-9fef-4714-b761-f9ee34dea5a5",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-427 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5efdbec1-6787-4a9c-a16d-2d5d2c8d92fa",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-73 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5f3194f6-2d33-4bef-8e47-b5d23688ab16",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-310 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--45599ecc-d485-42c8-901b-fafbf303597f",
+            "created": "2021-10-22T17:31:50.472158Z",
+            "modified": "2021-10-22T17:31:50.472158Z",
+            "name": "CVE-CWE-476 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5335e9da-6e1d-4976-9b74-92a95d2fa7e0",
+            "created": "2021-10-22T17:31:50.473156Z",
+            "modified": "2021-10-22T17:31:50.473156Z",
+            "name": "CVE-CWE-940 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e53612a2-11c3-473b-81ad-2b3dae4c50b8",
+            "created": "2021-10-22T17:31:50.473156Z",
+            "modified": "2021-10-22T17:31:50.473156Z",
+            "name": "CVE-CWE-266 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b35b7efe-54db-42ec-a7c4-6cc1b985786e",
+            "created": "2021-10-22T17:31:50.473156Z",
+            "modified": "2021-10-22T17:31:50.473156Z",
+            "name": "CVE-CWE-1122 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f21767f7-4382-4521-a8c6-84639fc486b6",
+            "created": "2021-10-22T17:31:50.473156Z",
+            "modified": "2021-10-22T17:31:50.473156Z",
+            "name": "CVE-CWE-838 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e872730e-8a98-4000-b583-64773c1a3263",
+            "created": "2021-10-22T17:31:50.473156Z",
+            "modified": "2021-10-22T17:31:50.473156Z",
+            "name": "CVE-CWE-641 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7f281619-abc4-48aa-b301-1f65b3bc23fd",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-1217 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d1ae39d9-2602-4408-8809-fd3adace81e3",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-611 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4b6296ed-3383-4c13-a3a5-4766d323ddaa",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-621 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--018e98ca-9a32-468d-a959-9fc609a9fa29",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-1227 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--717df59e-e11e-41f6-a4ef-7d4dd976ffda",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-135 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5a6d578a-5d27-47b6-9f95-9ddc0f73a123",
+            "created": "2021-10-22T17:31:50.474153Z",
+            "modified": "2021-10-22T17:31:50.474153Z",
+            "name": "CVE-CWE-393 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cb070b5a-c3de-4a6a-8bb1-ecd9a24f6c1b",
+            "created": "2021-10-22T17:31:50.47515Z",
+            "modified": "2021-10-22T17:31:50.47515Z",
+            "name": "CVE-CWE-1082 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bfb85f56-67dc-48ed-8378-0a5e460b8ac0",
+            "created": "2021-10-22T17:31:50.47515Z",
+            "modified": "2021-10-22T17:31:50.47515Z",
+            "name": "CVE-CWE-836 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b95b53f2-d40c-4b52-8876-409f27a40dad",
+            "created": "2021-10-22T17:31:50.47515Z",
+            "modified": "2021-10-22T17:31:50.47515Z",
+            "name": "CVE-CWE-681 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--adb262ec-3b81-4c27-b462-d2206578247f",
+            "created": "2021-10-22T17:31:50.47515Z",
+            "modified": "2021-10-22T17:31:50.47515Z",
+            "name": "CVE-CWE-826 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cb72bab9-e4ac-4b66-94e8-c53784a5350b",
+            "created": "2021-10-22T17:31:50.47515Z",
+            "modified": "2021-10-22T17:31:50.47515Z",
+            "name": "CVE-CWE-115 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--175b9bb4-a0e6-4e25-a1f7-7ac2efb5bee3",
+            "created": "2021-10-22T17:31:50.476148Z",
+            "modified": "2021-10-22T17:31:50.476148Z",
+            "name": "CVE-CWE-125 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0d4c1d38-b0f6-472f-a271-e133a27b46ef",
+            "created": "2021-10-22T17:31:50.476148Z",
+            "modified": "2021-10-22T17:31:50.476148Z",
+            "name": "CVE-CWE-588 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--68c75712-3cdf-4f03-88c1-0738cc9e8b53",
+            "created": "2021-10-22T17:31:50.476148Z",
+            "modified": "2021-10-22T17:31:50.476148Z",
+            "name": "CVE-CWE-1092 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9ad95b87-53db-4a62-ae2b-1231a5b66385",
+            "created": "2021-10-22T17:31:50.47715Z",
+            "modified": "2021-10-22T17:31:50.47715Z",
+            "name": "Yara malware Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.47715Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--22b3452e-27b3-4add-b298-227d69bf2048",
+            "created": "2021-10-22T17:31:50.47715Z",
+            "modified": "2021-10-22T17:31:50.47715Z",
+            "name": "CVE-CWE-303 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0d5a9bb3-ec9b-4195-b844-7bcec7fc3b60",
+            "created": "2021-10-22T17:31:50.47715Z",
+            "modified": "2021-10-22T17:31:50.47715Z",
+            "name": "CVE-CWE-413 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cf504c84-6391-4845-bbba-b2b43b44546d",
+            "created": "2021-10-22T17:31:50.47715Z",
+            "modified": "2021-10-22T17:31:50.47715Z",
+            "name": "CVE-CWE-403 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f8266756-fe3b-459b-9a79-7269ac5f143d",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-323 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cba17e66-d777-4d47-b3a7-572bbceba239",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-433 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--78161fa0-f3ca-46b2-a1e7-7e07d59cfe69",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-483 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a13539f3-04c1-4625-942d-b262bcff1193",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-363 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4fdde3c4-4972-4847-8e38-386d39264326",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-463 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b1389dfb-ea3d-4f1a-bba3-0ff77e9491c3",
+            "created": "2021-10-22T17:31:50.478142Z",
+            "modified": "2021-10-22T17:31:50.478142Z",
+            "name": "CVE-CWE-343 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a05787da-273b-400e-84f5-4a753138e299",
+            "created": "2021-10-22T17:31:50.479139Z",
+            "modified": "2021-10-22T17:31:50.479139Z",
+            "name": "CVE-CWE-353 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--20085630-583d-46c8-90e7-a01fd3f5b96a",
+            "created": "2021-10-22T17:31:50.479139Z",
+            "modified": "2021-10-22T17:31:50.479139Z",
+            "name": "Yara packers Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.479139Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--245fb7f5-d659-48f2-a4fa-bf245c7150ed",
+            "created": "2021-10-22T17:31:50.479139Z",
+            "modified": "2021-10-22T17:31:50.479139Z",
+            "name": "CWE-215 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b9f0d1f8-feee-4524-aaf0-15211b74e35f",
+            "created": "2021-10-22T17:31:50.479139Z",
+            "modified": "2021-10-22T17:31:50.479139Z",
+            "name": "CVE-CWE-1107 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ba9893f2-8b6a-473a-9807-7e932c058a21",
+            "created": "2021-10-22T17:31:50.479139Z",
+            "modified": "2021-10-22T17:31:50.479139Z",
+            "name": "CVE-CWE-1117 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e5cd45a0-7971-4fc4-bb60-d77660f63f5d",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-1127 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--98fa2cbf-0645-443c-aae7-e01cb35d8d15",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-916 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3da42bee-f053-4cdc-b215-753c28136044",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-1210 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7488d542-d996-42f5-b709-228780f41950",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-1220 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f2b326c5-d249-49f0-9610-fc68a231f5fb",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-1240 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fee490b1-2e50-4a93-b425-25115714a056",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-1230 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a47e4104-e48b-4b6b-accf-17ce8feb9f5b",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-766 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--95304bd5-51ce-4c94-9015-5484e947840b",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CVE-CWE-776 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1ff1630b-e594-4ff2-a72b-a743a8d309d1",
+            "created": "2021-10-22T17:31:50.480137Z",
+            "modified": "2021-10-22T17:31:50.480137Z",
+            "name": "CWE-134 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2fbaa1aa-6f5b-4888-aed3-670374bf918d",
+            "created": "2021-10-22T17:31:50.481134Z",
+            "modified": "2021-10-22T17:31:50.481134Z",
+            "name": "CVE-CWE-1109 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8051f408-9043-4173-a5cf-4f3ac50cd6ff",
+            "created": "2021-10-22T17:31:50.481134Z",
+            "modified": "2021-10-22T17:31:50.481134Z",
+            "name": "CVE-CWE-786 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--91365a2e-b762-47a2-aefc-ef8fcbf507fd",
+            "created": "2021-10-22T17:31:50.481134Z",
+            "modified": "2021-10-22T17:31:50.481134Z",
+            "name": "CVE-CWE-756 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8948c4d3-ea7a-48a4-985a-495d8f90e323",
+            "created": "2021-10-22T17:31:50.481794Z",
+            "modified": "2021-10-22T17:31:50.481794Z",
+            "name": "CVE-CWE-1212 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ae32bc8c-83ce-46b5-a627-f9f3077178da",
+            "created": "2021-10-22T17:31:50.481794Z",
+            "modified": "2021-10-22T17:31:50.481794Z",
+            "name": "CVE-CWE-1062 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--71178d3e-6568-4363-90cc-21d8bd920631",
+            "created": "2021-10-22T17:31:50.481794Z",
+            "modified": "2021-10-22T17:31:50.481794Z",
+            "name": "CVE-CWE-1072 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--40cc10df-fd84-47fc-8ee9-f7e9948e09e0",
+            "created": "2021-10-22T17:31:50.481794Z",
+            "modified": "2021-10-22T17:31:50.481794Z",
+            "name": "CVE-CWE-1052 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c67dfe2d-6e49-433b-bb7a-016028617cdc",
+            "created": "2021-10-22T17:31:50.482802Z",
+            "modified": "2021-10-22T17:31:50.482802Z",
+            "name": "CVE-CWE-1119 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f09e785f-37a6-47cf-9b36-827cbdf2ed46",
+            "created": "2021-10-22T17:31:50.482802Z",
+            "modified": "2021-10-22T17:31:50.482802Z",
+            "name": "CWE-467 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--14151e70-48b2-43a7-95d6-0da82f5a605a",
+            "created": "2021-10-22T17:31:50.482802Z",
+            "modified": "2021-10-22T17:31:50.482802Z",
+            "name": "CVE-CWE-601 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e70991e9-bdbf-42b2-be5e-692ceeb8c6c3",
+            "created": "2021-10-22T17:31:50.483791Z",
+            "modified": "2021-10-22T17:31:50.483791Z",
+            "name": "CVE-CWE-431 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--571ec434-11fb-41ce-bcc5-fd22d67f9450",
+            "created": "2021-10-22T17:31:50.483791Z",
+            "modified": "2021-10-22T17:31:50.483791Z",
+            "name": "CVE-CWE-190 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--1f6f941b-b2f8-4517-8449-8336754c142a",
+            "created": "2021-10-22T17:31:50.483791Z",
+            "modified": "2021-10-22T17:31:50.483791Z",
+            "name": "CVE-CWE-1037 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8052733f-666f-4d76-86b8-b89f2c79d36c",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-708 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9ec84afd-d0cc-4f9c-9e32-d3cd14028588",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-471 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bde399bd-2ff1-4019-b419-91a603a12de2",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-1077 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--279179b6-5814-41e0-b767-1b4f5d62a0b5",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-778 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4c3fcc47-4b06-4ef5-9eb1-19f757b42971",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-831 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b37efc55-64ed-40f3-b2a0-9460357b1592",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CVE-CWE-1044 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7f4ef467-3337-4ad1-8bc8-2e33e7c347cf",
+            "created": "2021-10-22T17:31:50.484806Z",
+            "modified": "2021-10-22T17:31:50.484806Z",
+            "name": "CWE-119 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e79c971b-2946-4e39-8143-eeeb917f85dd",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-411 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--22744153-525c-48b8-a0a2-34469f3bd180",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-338 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--185abdf9-e80a-4623-bb3b-cad3153d3157",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-1097 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--55d3e820-2daf-4fe8-9993-ddb26496bab0",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-23 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--09e6442d-8989-4a6b-a1a2-45addaa6a3bc",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-355 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--aa404990-4eca-4060-af17-219865a26508",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CWE-332 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9d2132ef-df9d-4474-9162-689eb6fc34fc",
+            "created": "2021-10-22T17:31:50.485812Z",
+            "modified": "2021-10-22T17:31:50.485812Z",
+            "name": "CVE-CWE-130 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--59eaf789-118a-42db-97d8-a8bc0229f330",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-183 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--150d5a68-5615-4c8d-9ac5-154c3b0a4fcf",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-1110 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7d59eb08-3b82-42f2-b9aa-b0a5a8366271",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-170 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bf968d96-84c7-4175-b6cb-b33fc8fa164d",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-798 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--060e9ff7-1adc-4a19-b797-fd05a5143b0c",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-1024 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--780fbd34-f1ec-4f96-8925-83c4dce8d3b4",
+            "created": "2021-10-22T17:31:50.486786Z",
+            "modified": "2021-10-22T17:31:50.486786Z",
+            "name": "CVE-CWE-378 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c6183dea-a7e0-40ae-886f-ea652d1a3b27",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-335 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3bed81a3-6d4c-4ea4-9ca8-3041bbcbe7ca",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-1057 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--31882595-3ea0-4a93-86b7-5574fb0d861e",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-523 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b76141ee-8e4f-4737-be4a-391f598c7ac7",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-90 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--01b0b1be-2813-4fb1-a4f6-c73a417e27d2",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-603 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ae29ab90-9187-4072-88e1-c734ebdad151",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-643 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--67308b8d-50e4-461f-b08b-b52c74b64d97",
+            "created": "2021-10-22T17:31:50.487777Z",
+            "modified": "2021-10-22T17:31:50.487777Z",
+            "name": "CVE-CWE-804 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--87d2894c-3d20-44c3-93c0-de4ff1c75b48",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-1225 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--696e7fe2-e11c-44cd-8768-37e98d778b82",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-824 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d0fac779-6b6f-4965-a76a-d9c789beddf5",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-914 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--667b5c76-9ddd-4d21-a87b-2500b455df33",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-263 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f65b2767-d31c-47bb-9b31-674f48342576",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-391 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--59a7c6cc-7e39-407d-9061-e93ef991cb7a",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-1084 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5dbaa1a6-4def-4e73-b290-cff886911001",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-1064 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--644f0191-f48f-4ec7-a777-09fbfec95ed6",
+            "created": "2021-10-22T17:31:50.488772Z",
+            "modified": "2021-10-22T17:31:50.488772Z",
+            "name": "CVE-CWE-223 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0788d2d2-d615-4f56-9e2b-979fc3e1ebfd",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-243 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--af91d685-2d78-4283-9e79-55665adea839",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-563 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5e58833b-62ff-4466-9e6b-41a2e45cd71e",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-1265 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2f167838-328e-4f58-8af5-359907461423",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-663 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0a79d09b-d1a3-4078-a9af-faa5f942ebb7",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-123 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--772ecf1e-fb51-45b1-89c9-96fcd5fce833",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-428 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bdc4d4fc-9f56-43bc-8330-ca1e3892d1d5",
+            "created": "2021-10-22T17:31:50.489768Z",
+            "modified": "2021-10-22T17:31:50.489768Z",
+            "name": "CVE-CWE-1114 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d309f044-97da-4ff1-a104-5a4b7eae0404",
+            "created": "2021-10-22T17:31:50.490782Z",
+            "modified": "2021-10-22T17:31:50.490782Z",
+            "name": "CVE-CWE-331 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8c640cc3-3b04-4ea6-88c6-96fc187e5e2f",
+            "created": "2021-10-22T17:31:50.490782Z",
+            "modified": "2021-10-22T17:31:50.490782Z",
+            "name": "CVE-CWE-501 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f0695bc2-54e0-4fd3-9b93-29d61bf30357",
+            "created": "2021-10-22T17:31:50.490782Z",
+            "modified": "2021-10-22T17:31:50.490782Z",
+            "name": "CVE-CWE-581 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a75bbd9d-2a22-4e21-8c8d-017992e3b0b0",
+            "created": "2021-10-22T17:31:50.490782Z",
+            "modified": "2021-10-22T17:31:50.490782Z",
+            "name": "CVE-CWE-205 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--88391f13-5ecb-4e55-8c70-3d5f13fffdd8",
+            "created": "2021-10-22T17:31:50.490782Z",
+            "modified": "2021-10-22T17:31:50.490782Z",
+            "name": "CVE-CWE-371 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ec384436-5165-449e-aebb-e9bba1243eae",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-941 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c1cecd2b-2d7c-4882-83a0-e3bdbc8ac4e1",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-448 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--38c6e713-838e-4d45-8cb2-2871e92b446d",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-521 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3d31a27f-881a-4ad1-bb30-e7cf4fb573f1",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-1099 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--99097fcb-5146-4eec-81ad-9a18b43f1c99",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-283 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--64cf0284-788d-4eff-8042-88701082fd3e",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-455 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--829d71c6-0363-4c47-b360-ce841c923ef8",
+            "created": "2021-10-22T17:31:50.491399Z",
+            "modified": "2021-10-22T17:31:50.491399Z",
+            "name": "CVE-CWE-475 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f5e93691-413e-49f2-8a20-9b78a3a4e7ca",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-278 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8989b9c4-8a41-41d9-ad98-043d4b972260",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-468 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fd8e018b-036f-4765-8a58-866d736d6acd",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-791 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c527c249-1f0d-4c46-8b72-c84b2b1b8c78",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-351 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f2ff9d89-5174-4633-9afb-c153b6ffc1c7",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-698 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5ccf6726-c02e-4b5c-98a0-77f4827b4e59",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-488 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--79158f0c-6a2c-4779-9096-94e8093272f1",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-771 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--be489c7b-438d-4fd8-8fe8-d58322d8c26b",
+            "created": "2021-10-22T17:31:50.492389Z",
+            "modified": "2021-10-22T17:31:50.492389Z",
+            "name": "CVE-CWE-561 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--495fe16e-164e-4dc8-b129-d11cf1c66cf4",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-1112 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ead72e6b-260a-45e5-92c4-430923dcd8cd",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-676 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--05472fa3-694d-484a-9073-f31360ff39c0",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-466 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--df4a7c1a-8c12-4ab9-9d19-2e3c4a8d85a1",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-426 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--73ced60f-0460-4743-8942-8139fca20b77",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-265 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--18ce80a6-cf20-4daa-a6b7-aa675f011501",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-320 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b9d4cb72-b701-45f0-849f-b0485ffe73e4",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-1079 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--91024c75-40e1-4180-b9a5-87128b8a1991",
+            "created": "2021-10-22T17:31:50.493387Z",
+            "modified": "2021-10-22T17:31:50.493387Z",
+            "name": "CVE-CWE-921 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--1017acc7-eec2-4111-a144-539c356fea37",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "Yara maldocs Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.494384Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9cdfefe7-9fdf-4c73-9184-11646d4899de",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "CVE-CWE-828 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--eb6b261f-f22a-4a65-9029-c6f316e46726",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "CVE-CWE-408 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2f738d1c-4a8e-49c4-897a-858866c8cfde",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "CVE-CWE-618 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--943b20cd-2e78-4dfe-bfe0-cc130a387a2e",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "CVE-CWE-694 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--5cff38be-4a45-4bbf-be6a-593826b2a867",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "Yara exploit_kits Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.494384Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b53b49b7-1dcb-47d2-b9fd-da638034feec",
+            "created": "2021-10-22T17:31:50.494384Z",
+            "modified": "2021-10-22T17:31:50.494384Z",
+            "name": "CVE-CWE-267 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--709eea46-d71b-4b74-a0b6-cd1a72346a6a",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-261 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--11ffe910-0c27-4fcf-9d1f-3f1a1993aba0",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CWE-560 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2f6c8683-3791-40ce-9baf-283c8ba720f0",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-277 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7ca15fa4-2944-46d6-a5d6-9a43011365c0",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-128 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--cff2c5d0-243b-467e-a4b3-5222dda202e5",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-839 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fb70a681-e256-4eb2-b15a-6b1986412366",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-41 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e34d7069-9bf7-4408-ab60-a863e3633e94",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-565 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--73db5b8d-0c8a-46aa-b57e-762973ecefb3",
+            "created": "2021-10-22T17:31:50.495381Z",
+            "modified": "2021-10-22T17:31:50.495381Z",
+            "name": "CVE-CWE-1105 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2bc4dad5-bfaa-410c-80d5-454d6880fe9d",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CWE-426 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--21122f8a-7991-4709-8db5-78c022fed62d",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-168 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--27592b23-71e7-404e-8888-5165b0f9a280",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-182 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f45d4835-227b-48b1-a232-d22e8c8fe463",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-833 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2a1aabd2-baa9-49cc-92ff-fba47a1c4051",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-1085 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9bf0d39f-737b-4f3d-816d-a736372d01b8",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-823 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9abbcff4-6a09-46c9-b42a-1a5a2f57a282",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CWE-782 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2b3c883d-17e4-4e3d-ad22-376a232402ee",
+            "created": "2021-10-22T17:31:50.496379Z",
+            "modified": "2021-10-22T17:31:50.496379Z",
+            "name": "CVE-CWE-1115 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b0b208b5-16c3-4e6c-9437-ecc280ad18c8",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-198 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4e9ff6a9-ab44-4066-9dde-77326c6cf9ba",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-1095 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--74b6f8c8-c4f9-43a3-9f96-bf990a2aed22",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-191 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c6acbc78-6def-4f0d-9f85-3883d50016ab",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-1046 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fcb084e8-788a-4a2e-afa9-2fa78eca9e53",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-763 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c373793c-aed1-48e2-bcb2-5e26ec31677f",
+            "created": "2021-10-22T17:31:50.497377Z",
+            "modified": "2021-10-22T17:31:50.497377Z",
+            "name": "CVE-CWE-1006 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f44e3c5b-8faf-463a-bedd-90b9a52bd0a1",
+            "created": "2021-10-22T17:31:50.498373Z",
+            "modified": "2021-10-22T17:31:50.498373Z",
+            "name": "CVE-CWE-1045 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d2fadb90-0257-42ff-8b08-1bd6cf0dc108",
+            "created": "2021-10-22T17:31:50.498373Z",
+            "modified": "2021-10-22T17:31:50.498373Z",
+            "name": "CVE-CWE-1055 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--52f86ddc-a596-4636-8841-5b39c2567f4a",
+            "created": "2021-10-22T17:31:50.498373Z",
+            "modified": "2021-10-22T17:31:50.498373Z",
+            "name": "CVE-CWE-1050 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ec4ebee8-a8b3-421d-9637-2afc0d2c2327",
+            "created": "2021-10-22T17:31:50.499372Z",
+            "modified": "2021-10-22T17:31:50.499372Z",
+            "name": "CVE-CWE-584 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0931bab3-fb24-4932-ae81-ad22d130ab78",
+            "created": "2021-10-22T17:31:50.499372Z",
+            "modified": "2021-10-22T17:31:50.499372Z",
+            "name": "CVE-CWE-167 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f28a421d-9e61-4356-a31a-f89fe69eee9b",
+            "created": "2021-10-22T17:31:50.499372Z",
+            "modified": "2021-10-22T17:31:50.499372Z",
+            "name": "CVE-CWE-78 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d3d9e336-0186-42cd-88ff-ce2ea3e9f4d4",
+            "created": "2021-10-22T17:31:50.499372Z",
+            "modified": "2021-10-22T17:31:50.499372Z",
+            "name": "CVE-CWE-544 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--be267b15-8833-4b73-b824-7423be84f4c8",
+            "created": "2021-10-22T17:31:50.499372Z",
+            "modified": "2021-10-22T17:31:50.499372Z",
+            "name": "CVE-CWE-387 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9232f7aa-cf72-49c0-b542-18486c7301b5",
+            "created": "2021-10-22T17:31:50.50037Z",
+            "modified": "2021-10-22T17:31:50.50037Z",
+            "name": "CVE-CWE-1060 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5ee49f48-9fb2-4ac7-943a-601aa903bb6f",
+            "created": "2021-10-22T17:31:50.50037Z",
+            "modified": "2021-10-22T17:31:50.50037Z",
+            "name": "CVE-CWE-842 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4677920b-e2ef-4345-8724-e7aa28c7fb10",
+            "created": "2021-10-22T17:31:50.50037Z",
+            "modified": "2021-10-22T17:31:50.50037Z",
+            "name": "CVE-CWE-832 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4b88e780-1c85-4ee6-a5c4-27e6eb6d27a2",
+            "created": "2021-10-22T17:31:50.501367Z",
+            "modified": "2021-10-22T17:31:50.501367Z",
+            "name": "CVE-CWE-1215 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d8ae6f72-75b6-41fd-976f-9b7ac70cf845",
+            "created": "2021-10-22T17:31:50.501367Z",
+            "modified": "2021-10-22T17:31:50.501367Z",
+            "name": "CVE-CWE-749 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5d94bbdd-c425-44ff-aaa5-3127aebe50fc",
+            "created": "2021-10-22T17:31:50.501367Z",
+            "modified": "2021-10-22T17:31:50.501367Z",
+            "name": "CVE-CWE-470 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ffd0ad31-92d3-496e-80d8-f89daf87f329",
+            "created": "2021-10-22T17:31:50.501367Z",
+            "modified": "2021-10-22T17:31:50.501367Z",
+            "name": "CVE-CWE-212 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--516616a4-acba-4cb4-b070-8c293e1a03d2",
+            "created": "2021-10-22T17:31:50.501367Z",
+            "modified": "2021-10-22T17:31:50.501367Z",
+            "name": "CVE-CWE-306 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--eca57e35-1117-48eb-b3f3-54ab7ea0b163",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-270 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--78fbe108-848e-4cf0-9fcd-a63cba07500c",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-88 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--9038fd7f-b267-4b59-b9b3-9d5a2a93be41",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-260 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--12a1e7cd-b150-4e72-9e79-d0bfae37ec28",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-779 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f021f901-eeee-44a0-9c07-745bbe2d420e",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-480 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e45c48bd-db71-46d3-9071-b6e655d836bf",
+            "created": "2021-10-22T17:31:50.50243Z",
+            "modified": "2021-10-22T17:31:50.50243Z",
+            "name": "CVE-CWE-346 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--8afcec41-136d-4e99-b993-9739663ac2b7",
+            "created": "2021-10-22T17:31:50.503361Z",
+            "modified": "2021-10-22T17:31:50.503361Z",
+            "name": "Yara webshells Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.503361Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ba685c96-38a8-4ffc-9880-295c5e18c847",
+            "created": "2021-10-22T17:31:50.503361Z",
+            "modified": "2021-10-22T17:31:50.503361Z",
+            "name": "CVE-CWE-356 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--32c69a3e-0512-4458-ba0d-8e06566d1ecd",
+            "created": "2021-10-22T17:31:50.503361Z",
+            "modified": "2021-10-22T17:31:50.503361Z",
+            "name": "CVE-CWE-395 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0598dea1-1f3a-4516-b77e-8ca7821ddcf4",
+            "created": "2021-10-22T17:31:50.503361Z",
+            "modified": "2021-10-22T17:31:50.503361Z",
+            "name": "CVE-CWE-307 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--77d9ae6e-7686-4587-957c-62f6369535cd",
+            "created": "2021-10-22T17:31:50.504359Z",
+            "modified": "2021-10-22T17:31:50.504359Z",
+            "name": "CWE-125 Weakness Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--96c3bc4d-a320-493d-8b96-dea107a80574",
+            "created": "2021-10-22T17:31:50.504359Z",
+            "modified": "2021-10-22T17:31:50.504359Z",
+            "name": "CVE-CWE-440 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--debe6a39-4954-42c5-90eb-25321e31dd6f",
+            "created": "2021-10-22T17:31:50.504359Z",
+            "modified": "2021-10-22T17:31:50.504359Z",
+            "name": "CVE-CWE-347 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--81ff876f-e7ea-4a94-93c4-a769dd5b58d3",
+            "created": "2021-10-22T17:31:50.504359Z",
+            "modified": "2021-10-22T17:31:50.504359Z",
+            "name": "CVE-CWE-137 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--34e35e9f-dfca-4ed2-b211-3dbb53d23215",
+            "created": "2021-10-22T17:31:50.504359Z",
+            "modified": "2021-10-22T17:31:50.504359Z",
+            "name": "CVE-CWE-396 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3ac527b5-da13-49e3-bc74-9d6570e8a979",
+            "created": "2021-10-22T17:31:50.505374Z",
+            "modified": "2021-10-22T17:31:50.505374Z",
+            "name": "CVE-CWE-430 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--59b38fc5-5187-4e32-a3aa-f335fe276b26",
+            "created": "2021-10-22T17:31:50.505374Z",
+            "modified": "2021-10-22T17:31:50.505374Z",
+            "name": "CVE-CWE-1090 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--bd88a7f1-80c8-4739-b0eb-6baad7f338a7",
+            "created": "2021-10-22T17:31:50.505374Z",
+            "modified": "2021-10-22T17:31:50.505374Z",
+            "name": "CVE-CWE-386 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2826e6d4-b6ac-43dd-a038-37e64b424802",
+            "created": "2021-10-22T17:31:50.505374Z",
+            "modified": "2021-10-22T17:31:50.505374Z",
+            "name": "CVE-CWE-909 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--331b7b21-3346-4ee4-8753-b3c65f7a97ea",
+            "created": "2021-10-22T17:31:50.506353Z",
+            "modified": "2021-10-22T17:31:50.506353Z",
+            "name": "CVE-CWE-474 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--82619ced-5655-49ec-aff5-d4d8da8dc261",
+            "created": "2021-10-22T17:31:50.506353Z",
+            "modified": "2021-10-22T17:31:50.506353Z",
+            "name": "CVE-CWE-421 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e4c93228-05c3-4066-981f-1b4d14ff560c",
+            "created": "2021-10-22T17:31:50.506353Z",
+            "modified": "2021-10-22T17:31:50.506353Z",
+            "name": "CVE-CWE-328 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--edf80714-2399-4ec4-b3cb-904ea32a4cda",
+            "created": "2021-10-22T17:31:50.506353Z",
+            "modified": "2021-10-22T17:31:50.506353Z",
+            "name": "CVE-CWE-1067 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--963be438-da93-4abd-9ac9-5a4714795841",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-434 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e3b302ae-3c42-4c7f-b8fe-9cbd6a803297",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-487 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3597dd3b-ee13-4d56-9d39-749d82db96fa",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-841 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2683e6c2-fb87-4837-af2a-12ae7a52e918",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-1054 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7317c5b8-abc8-4de0-a427-cc82a962bedc",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-312 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a0a27c34-af34-429e-b703-099941196748",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-365 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--debca6fe-bf0a-44b8-b7cb-2759045ef8cf",
+            "created": "2021-10-22T17:31:50.507351Z",
+            "modified": "2021-10-22T17:31:50.507351Z",
+            "name": "CVE-CWE-580 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--516ea14e-6405-4f13-ba6d-6ce9c89be54a",
+            "created": "2021-10-22T17:31:50.508348Z",
+            "modified": "2021-10-22T17:31:50.508348Z",
+            "name": "CVE-CWE-79 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--b050657c-f1ce-4230-bc73-bc6021fd8a8f",
+            "created": "2021-10-22T17:31:50.508348Z",
+            "modified": "2021-10-22T17:31:50.508348Z",
+            "name": "CVE-CWE-639 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--40766905-69f9-4500-92e5-6c471334306e",
+            "created": "2021-10-22T17:31:50.508348Z",
+            "modified": "2021-10-22T17:31:50.508348Z",
+            "name": "CVE-CWE-788 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--24c32603-1580-4473-8423-0749f206c8f5",
+            "created": "2021-10-22T17:31:50.508348Z",
+            "modified": "2021-10-22T17:31:50.508348Z",
+            "name": "CVE-CWE-368 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f1d41e20-acf5-46ac-bcd4-e40f632931ed",
+            "created": "2021-10-22T17:31:50.508348Z",
+            "modified": "2021-10-22T17:31:50.508348Z",
+            "name": "CVE-CWE-325 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6a68bbef-74a7-44c8-8922-87576d60cdb9",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-1173 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--fa527838-415e-4d77-b0c1-552cce4faf8a",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-392 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5109237d-bb16-4a73-a275-0ba0511f187c",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-189 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--8261e532-3a4c-440b-86f7-fe7be14e5f5e",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-613 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7d505112-c5c1-48eb-8192-b6b4b8cd81cc",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-1106 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ad6ac15e-3e73-4a80-8857-cdea7f317cd1",
+            "created": "2021-10-22T17:31:50.509354Z",
+            "modified": "2021-10-22T17:31:50.509354Z",
+            "name": "CVE-CWE-569 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a23b30c7-801a-4c50-bdac-400db7c4495b",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-CWE-242 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f4db849c-6bf6-4e5c-9fe9-6b4fe74804e9",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-Unknown-Other Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f1c4e8a8-163e-459f-bf75-35de47ad2a97",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-CWE-772 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--64bd159f-7123-49cc-bfe2-e2b94a1a4c91",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-CWE-924 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--f734699a-cf0a-4fc9-9aa1-c9664e501d8f",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-CWE-66 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--e8e576c8-9f4a-4af8-9173-8d41fee0d0dc",
+            "created": "2021-10-22T17:31:50.510342Z",
+            "modified": "2021-10-22T17:31:50.510342Z",
+            "name": "CVE-CWE-233 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--21d675f9-3a01-4e27-b1c5-e91c5d7cf2f3",
+            "created": "2021-10-22T17:31:50.51134Z",
+            "modified": "2021-10-22T17:31:50.51134Z",
+            "name": "CVE-CWE-133 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--78a05ab9-6370-4297-87a7-e348f759e21c",
+            "created": "2021-10-22T17:31:50.51134Z",
+            "modified": "2021-10-22T17:31:50.51134Z",
+            "name": "CVE-CWE-299 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--de9e573b-ab82-4c97-9e9c-7f10fae5787e",
+            "created": "2021-10-22T17:31:50.51134Z",
+            "modified": "2021-10-22T17:31:50.51134Z",
+            "name": "CVE-CWE-1094 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3c33044a-6a4e-4cb5-a71c-129e7fc84d00",
+            "created": "2021-10-22T17:31:50.51134Z",
+            "modified": "2021-10-22T17:31:50.51134Z",
+            "name": "CVE-CWE-805 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6a25ef95-c701-4663-81ef-d030eb23d03e",
+            "created": "2021-10-22T17:31:50.512351Z",
+            "modified": "2021-10-22T17:31:50.512351Z",
+            "name": "CVE-CWE-648 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a7fc78f4-7738-4ee9-97e9-52f81425401d",
+            "created": "2021-10-22T17:31:50.512351Z",
+            "modified": "2021-10-22T17:31:50.512351Z",
+            "name": "CVE-CWE-438 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--ce825e26-0a6d-49bb-8633-b815f92429a7",
+            "created": "2021-10-22T17:31:50.512351Z",
+            "modified": "2021-10-22T17:31:50.512351Z",
+            "name": "CVE-CWE-321 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--a2a6f382-a97d-4aec-9247-47cd8f499c83",
+            "created": "2021-10-22T17:31:50.512351Z",
+            "modified": "2021-10-22T17:31:50.512351Z",
+            "name": "CVE-CWE-425 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--58ff67b0-8425-4fb7-abe8-62641d0db91e",
+            "created": "2021-10-22T17:31:50.512351Z",
+            "modified": "2021-10-22T17:31:50.512351Z",
+            "name": "CVE-CWE-1111 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--da7472a8-a0f1-495c-b5cf-698cd50a13dc",
+            "created": "2021-10-22T17:31:50.513334Z",
+            "modified": "2021-10-22T17:31:50.513334Z",
+            "name": "Yara email Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.513334Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--7148ba48-9411-4c42-9217-4b1ecab47e41",
+            "created": "2021-10-22T17:31:50.513334Z",
+            "modified": "2021-10-22T17:31:50.513334Z",
+            "name": "CVE-CWE-273 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4038c2bc-23cd-4aab-af27-295cc2f5f1d7",
+            "created": "2021-10-22T17:31:50.513334Z",
+            "modified": "2021-10-22T17:31:50.513334Z",
+            "name": "CVE-CWE-255 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d39d5c94-2881-4231-97bf-a6162ccdc5f2",
+            "created": "2021-10-22T17:31:50.513334Z",
+            "modified": "2021-10-22T17:31:50.513334Z",
+            "name": "CVE-CWE-465 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--37771a4f-d1f4-4646-abd2-1cdbc5529873",
+            "created": "2021-10-22T17:31:50.514344Z",
+            "modified": "2021-10-22T17:31:50.514344Z",
+            "name": "CVE-CWE-571 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--0366516a-7d19-4050-848e-3c5ea1df2a99",
+            "created": "2021-10-22T17:31:50.514344Z",
+            "modified": "2021-10-22T17:31:50.514344Z",
+            "name": "CVE-CWE-215 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--281a72fc-8320-4a56-b965-991a1b8ec160",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-478 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--18348b96-f634-45cf-9697-c4705930997c",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-1228 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--c62bd224-879d-47b8-b3bd-a4227282c701",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-268 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--584a7d5f-0a40-4498-b8ea-7b60ecbca33c",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-1124 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--2ffa20ee-d4bd-42a7-9277-a7e03f3f418e",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-93 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6e74cc49-03da-4637-937b-6fae14fa0ab4",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-1219 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--4f21b9b1-d058-412e-a07a-e2135212bfce",
+            "created": "2021-10-22T17:31:50.515329Z",
+            "modified": "2021-10-22T17:31:50.515329Z",
+            "name": "CVE-CWE-1102 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--3e4f22fc-fcb9-42d2-83a0-16de7b11f70d",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-617 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--988fc38a-ea05-4db9-a876-1fa7410cb787",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-920 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--06af7297-5c11-4c31-936a-b6da46d14fcb",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-1058 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--df62a3f4-057b-4ef1-9737-bacfcf090ec7",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-1089 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--5547cb29-4a9f-4211-a20e-74a52a98522d",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-120 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--d5c4709b-7685-4a01-b775-3dcc984da4ca",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-237 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--079d2246-c5ab-4f9f-95be-a8f177b0f1d0",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-540 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--93d1f136-a9d1-4605-8e47-ba5c8adc11a5",
+            "created": "2021-10-22T17:31:50.516357Z",
+            "modified": "2021-10-22T17:31:50.516357Z",
+            "name": "CVE-CWE-295 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--eec331aa-d76a-4027-a712-755c72ae880b",
+            "created": "2021-10-22T17:31:50.517356Z",
+            "modified": "2021-10-22T17:31:50.517356Z",
+            "name": "CVE-CWE-1098 Diagnostic"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--b17ef600-ea68-41d5-bdd0-4033b341bd0b",
+            "created": "2021-10-22T17:31:50.517356Z",
+            "modified": "2021-10-22T17:31:50.517356Z",
+            "name": "Yara capabilities Diagnostic",
+            "pattern": "yara",
+            "pattern_type": "yara",
+            "valid_from": "2021-10-22T17:31:50.517356Z"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6ecdd20e-d908-4cd2-aa6b-a702a153de3b",
+            "created": "2021-10-22T17:31:50.517356Z",
+            "modified": "2021-10-22T17:31:50.517356Z",
+            "name": "CVE-CWE-1049 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--6265901d-92ad-4be6-ac69-288a31084212",
+            "created": "2021-10-22T17:31:50.517356Z",
+            "modified": "2021-10-22T17:31:50.517356Z",
+            "name": "CVE-CWE-911 Diagnostic"
+        },
+        {
+            "type": "vulnerability",
+            "spec_version": "2.1",
+            "id": "vulnerability--55c253f8-8fae-428c-bd78-121b89cfc773",
+            "created": "2021-10-22T17:31:50.517356Z",
+            "modified": "2021-10-22T17:31:50.517356Z",
+            "name": "CVE-CWE-447 Diagnostic"
+        }
+    ]
+}
